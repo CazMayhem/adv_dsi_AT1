@@ -1,7 +1,8 @@
-adv_dsi_AT1
+Advanced Data Science and Innovation
 ==============================
 
-Advanced DSI AT1
+Advanced DSI (ADSI) Autumn 2022
+
 
 Project Organization
 ------------
