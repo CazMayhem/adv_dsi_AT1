@@ -3,6 +3,11 @@ Advanced Data Science and Innovation
 
 Advanced DSI (ADSI) Autumn 2022
 
+1. Assignment and Kaggle submission 13-Feb-2022
+   - notebook: carol_paipa_*******_neural_net.ipynb 
+   - model:    carol_NeuralNetworkMLP.joblib
+   - csv:      group1_NeuralNetworkMLP.csv
+
 
 Project Organization
 ------------
