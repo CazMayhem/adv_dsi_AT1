@@ -8,7 +8,12 @@ Advanced DSI (ADSI) Autumn 2022
    - model:    carol_NeuralNetworkMLP.joblib
    - csv:      group1_NeuralNetworkMLP.csv
 
-
+Setting up the environment
+------------
+1. Please put test.csv and train.csv inside /data/raw from the Kaggle competition https://www.kaggle.com/c/uts-advdsi-22-02-nba-career-prediction/data
+2. Install dependencies in the requirements.txt `pip install -r requirements.txt`
+3. Activate your virtual environment and run Jupyter notebook `pipenv run jupyter notebook`
+4. 
 Project Organization
 ------------
 
