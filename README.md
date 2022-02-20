@@ -3,7 +3,8 @@ Advanced Data Science and Innovation Autumn 2022
 
 Assignment 1 Weekly Submissions
 
-Week 1 13-Feb-2022 - Logistic Regression, Neural Net Multi Layer Perceptron <br>
+Week 1 13-Feb-2022 - Logistic Regression, Neural Net Multi Layer Perceptron 
+
 Week 2 20-Feb-2022 - XGBoost, SMOTE, hyperparameter tuning
 
 Setting up the environment
