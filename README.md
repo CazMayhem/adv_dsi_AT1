@@ -1,13 +1,10 @@
-Advanced Data Science and Innovation
-==============================
+Advanced Data Science and Innovation Autumn 2022
+================================================
 
-Advanced DSI (ADSI) Autumn 2022
+Assignment 1 Weekly Submissions
 
-1. Assignment and Kaggle submission 13-Feb-2022
-   - notebook: paipa_carol-******-week1_neuralnet.ipynb 
-   - report:   paipa_carol-******-week1_neuralnet.html
-   - model:    carol_NeuralNetworkMLP.joblib
-   - csv:      group1_NeuralNetworkMLP.csv
+1. Week 1 13-Feb-2022 - Neural Net Multi Layer Perceptron
+2. Week 2 20-Feb-2022 - XGBoost
 
 Setting up the environment
 ------------
