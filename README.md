@@ -9,9 +9,10 @@ Week 2 20-Feb-2022 - XGBoost, SMOTE, hyperparameter tuning
 
 Setting up the environment
 ------------
-1. Please put test.csv and train.csv inside /data/raw from the Kaggle competition https://www.kaggle.com/c/uts-advdsi-22-02-nba-career-prediction/data
-2. Install dependencies in the requirements.txt `pip install -r requirements.txt`
-3. Activate your virtual environment and run Jupyter notebook `pipenv run jupyter notebook`
+1. Please put test.csv and train.csv inside /data/raw from the Kaggle competition <br>
+   https://www.kaggle.com/c/uts-advdsi-22-02-nba-career-prediction/data
+3. Install dependencies in the requirements.txt `pip install -r requirements.txt`
+4. Activate your virtual environment and run Jupyter notebook `pipenv run jupyter notebook`
 
 Project Organization
 ------------
